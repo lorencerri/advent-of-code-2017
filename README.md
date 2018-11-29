@@ -5,7 +5,7 @@ https://adventofcode.com/2017
 | Day | Title |  |  | Solutions | | |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | | | JavaScript | Rust | Java | Python | Ruby |
-| 1 | _ | ? | ? | ? | ? | ? |
+| 1 | Inverse Captcha | ✔️ | ? | ? | ? | ? |
 | 2 | _ | ? | ? | ? | ? | ? |
 | 3 | _ | ? | ? | ? | ? | ? |
 | 4 | _ | ? | ? | ? | ? | ? |

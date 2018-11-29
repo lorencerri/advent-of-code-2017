@@ -2,7 +2,7 @@
 
 https://adventofcode.com/2017
 
-| Day | Title |  |  | Solution | | |
+| Day | Title |  |  | Solutions | | |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | | | JavaScript | Rust | Java | Python | Ruby |
 | 1 | _ | ? | ? | ? | ? | ? |

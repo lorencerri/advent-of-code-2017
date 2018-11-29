@@ -2,8 +2,6 @@
 
 https://adventofcode.com/2017
 
-### Days
-
 | Day | Title |  |  | Solution | | |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | | | JavaScript | Rust | Java | Python | Ruby |
